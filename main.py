@@ -7,7 +7,7 @@ import ttkbootstrap as ttk
 # --add-data "readme;readme" --add-data "README.md;." --uac-admin --name mh_ocr main.py
 def main():
     main_window = ttk.Window()
-    main_window.title("坐标预测 by爱花")
+    main_window.title("哔哩哔哩")
     # main_window.geometry("800x600")
     Layout(main_window)
     main_window.mainloop()
